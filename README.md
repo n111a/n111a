@@ -10,10 +10,13 @@ I'm junior Java developer. I quickly navigate the documentation in English.
 </p>
 <p align="center"> <a href="https://github.com/n111a/certificates">Diploma and course certificates</a></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-blue" />
+  <img src="https://img.shields.io/badge/-HTML-brightgreen" />
+  <img src="https://img.shields.io/badge/-CSS-yellowgreen" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow" />
+ <img src="https://img.shields.io/badge/-PostgreSQL-blue" />
+  <img src="https://img.shields.io/badge/-MySQL-9cf" />
+  <img src="https://img.shields.io/badge/-JUnit-blueviolet" />
 </p>
 
 
